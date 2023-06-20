@@ -425,10 +425,6 @@ ul {
         display: block;
     }
 
-    .latest-news .news-row .info {
-        margin: 15px 0;
-    }
-
     .latest-news .news-row .label {
         margin: 10px auto;
         width: fit-content;
